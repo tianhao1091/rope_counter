@@ -3,7 +3,6 @@
 
 
 ## Development Enviroments
-镜像
 PyTorch  2.0.0
 Python  3.8(ubuntu20.04)
 Cuda  11.8
@@ -11,7 +10,7 @@ GPU
 RTX 4090(24GB) * 1
 CPU
 16 vCPU Intel(R) Xeon(R) Gold 6430
-内存
+memory
 120GB
 ## Quick Start
 
